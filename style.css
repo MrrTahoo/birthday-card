@@ -1,6 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Cedarville+Cursive);
 @import url(https://fonts.googleapis.com/css?family=Tangerine);
 
+body{
+	background-color: black;
+}
 input {
 	display: none;
 }
